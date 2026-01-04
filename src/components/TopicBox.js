@@ -8,6 +8,7 @@ import './topicbox.css'
 //  const a = 10;
 //  const b = 20;
 //  const c = a+b;
+//props method
 export default function TopicBox(props) {
   return (
     /*<div>
@@ -23,3 +24,4 @@ export default function TopicBox(props) {
     </div>
   )
 }
+
