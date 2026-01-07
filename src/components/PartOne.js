@@ -5,6 +5,11 @@ export default function PartOne() {
     <div>
         <h1>This is my first React components</h1>
         <h1>This is my first React components</h1>
+    <h1>This is my first React components</h1>
+    <h1>This is my first React components</h1>
+    <h1>This is my first React components</h1>
+    <h1>This is my first React components</h1>
+    <h1>This is my first React components</h1>
 
     </div>
   )
